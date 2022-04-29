@@ -1,9 +1,14 @@
 # My latest talks and articles
 
 <dl>      
-  <dt> 30 November 2021 - Stand-up and Online Talk - 🇮🇹 </dt>
+<dt> 28 April 2022 - Stand-up and Online Talk - 🇮🇹 </dt>
   <dd>
-    Angular Standadlone Components — Meetup Angular Rome and Codemotion AperiTech <br />
+    RxJs: Ripartiamo dalle basi — Meetup Angular Rome and Codemotion AperiTech <br />
+  </dd>  
+
+<dt> 30 November 2021 - Stand-up and Online Talk - 🇮🇹 </dt>
+  <dd>
+    Angular Standalone Components — Meetup Angular Rome and Codemotion AperiTech <br />
     <a href="https://www.youtube.com/watch?v=qEfL1ofSAuc">Video</a> ⟺ <a href="https://github.com/DavidePassafaro/talks-and-articles-extra-resources/blob/main/slides/30%20November%202021%20-%20Angular%20Standadlone%20Components.pptx">Slides</a>
   </dd>
   
