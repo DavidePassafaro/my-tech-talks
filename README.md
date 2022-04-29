@@ -21,6 +21,6 @@
   <dt> 16 December 2020 - Online Talk - 🇮🇹 </dt>
   <dd>
     Stencil.js, Angular e Reactive Forms — Meetup Angular Rome and The Communities Bay <br />
-    <a href="https://youtu.be/sTLi_-s_RWs">Video</a> ⟺ <a href="">Slides</a>
+    <a href="https://youtu.be/sTLi_-s_RWs">Video</a>
   </dd>
 </dl>
