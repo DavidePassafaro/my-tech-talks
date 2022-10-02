@@ -1,10 +1,19 @@
 # My latest talks and articles
 
-<dl>      
+<dl>
+<dt> 22 September 2022 - Stand-up and Online Talk - 🇮🇹 </dt>
+  <dd>
+    Typed Reactive Forms — Meetup Angular Rome and Codemotion AperiTech <br />
+  </dd>  
+  <a href="https://docs.google.com/presentation/d/1qdT4EZEnVYx2ul4Xa7MY-hCwlNMJu7r020dGBYvEOaE/edit?usp=sharing">Slides</a>
+  </dd>
+
 <dt> 28 April 2022 - Stand-up and Online Talk - 🇮🇹 </dt>
   <dd>
     RxJs: Ripartiamo dalle basi — Meetup Angular Rome and Codemotion AperiTech <br />
   </dd>  
+  <a href="https://talks.codemotion.com/rxjs-ripartiamo-dalle-basi">Video</a> ⟺ <a href="https://docs.google.com/presentation/d/1NyU7lKaY4HV_SDWa4X1y3nA0Yyzz7D98MxZKw9F03YU/edit?usp=sharing">Slides</a>
+  </dd>
 
 <dt> 30 November 2021 - Stand-up and Online Talk - 🇮🇹 </dt>
   <dd>
