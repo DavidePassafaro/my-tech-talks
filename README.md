@@ -5,7 +5,7 @@
   <dd>
     Angular Signals — Meetup Angular Rome @ ConTe.it
     <br />
-    <a href="https://www.youtube.com/live/S5yO_uiSP3Y?si=oFuKLtUJ0TOisZx9">Video</a>
+    <a href="https://www.youtube.com/live/S5yO_uiSP3Y?si=jUyar5aaMAEE0l4T&t=3024">Video</a>
     ⟺
     <a href="https://docs.google.com/presentation/d/1KiszoI-3kPY8vLemL36X0dUGAQUmTebzoOiPyPTuTs0">Slides</a>
   </dd>
