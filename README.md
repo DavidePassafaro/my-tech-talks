@@ -10,6 +10,8 @@
     <a href="https://docs.google.com/presentation/d/1KiszoI-3kPY8vLemL36X0dUGAQUmTebzoOiPyPTuTs0">Slides</a>
   </dd>
 
+  ---
+
   <dt>07 October 2022 - Conference Lightning talk - 🇬🇧</dt>
   <dd>
     Typed Reactive Forms — angularday 2022 <br />
@@ -31,6 +33,8 @@
     <a href="https://docs.google.com/presentation/d/1NyU7lKaY4HV_SDWa4X1y3nA0Yyzz7D98MxZKw9F03YU">Slides</a>
   </dd>
 
+  ---
+
   <dt>30 November 2021 - Stand-up and Online Talk - 🇮🇹</dt>
   <dd>
     Angular Standalone Components — Meetup Angular Rome and Codemotion AperiTech
@@ -45,6 +49,8 @@
     <a href="https://www.youtube.com/watch?v=dMuDYVNDm8g">Video</a> ⟺
     <a href="https://docs.google.com/presentation/d/1rOM8ysLEEg_4egw_t_r9Ua6jB0VfWMTaUnpF1WxIK38">Slides</a>
   </dd>
+
+  ---
 
   <dt>16 December 2020 - Online Talk - 🇮🇹</dt>
   <dd>
