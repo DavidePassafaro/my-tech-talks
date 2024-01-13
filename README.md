@@ -1,6 +1,38 @@
 # My latest talks and articles
 
 <dl>
+
+  2024 is coming soon!!!
+
+  ---
+
+  <dt>01 December 2023 - Conference talk - 🇬🇧</dt>
+  <dd>
+    Go Dynamic with Reactive Forms — NG Rome Summit 2023
+    <br />
+    <a href="https://www.youtube.com/live/K5R18qQNUm4?si=rtmJVnTyKSdSZ0LC&t=8440">Video</a>
+    ⟺
+    <a href="https://docs.google.com/presentation/d/1VOkousiBfO8rUpMxhjDK5s0scQI4X4llZLy987v3M2Y">Slides</a>
+    ⟺
+    <a href="https://demo-dynamic-reactive-forms.vercel.app/">Demo</a>
+  </dd>
+
+  <dt>31 October 2023 - Stand-up and Online Talk - 🇮🇹</dt>
+  <dd>
+    Angular Signals & RxJs: Guida Galattica alla Reattività — Meetup Angular Rome @ DST
+    <br />
+    <a href="https://www.youtube.com/live/BQZF2yLSQbg?si=OGS8eF0VPrX4PIa_&t=2787">Video</a>
+    ⟺
+    <a href="https://docs.google.com/presentation/d/1jS1uOXMJHMHrEze-wBpmpDf6jRtmkk63DhlgFrn4HCI">Slides</a>
+  </dd>
+
+  <dt>25 October 2023 - Conference talk - 🇬🇧</dt>
+  <dd>
+    Angular Signals & RxJs: Hitchhiker's Guide to Reactivity — Codemotion Milan 2023
+    <br />
+    <a href="https://docs.google.com/presentation/d/1DOLN_2xm-1C9ZKPPY2WMZplayVio8uOphCSMnyUKRx8">Slides</a>
+  </dd>
+
   <dt>25 May 2023 - Stand-up and Online Talk - 🇮🇹</dt>
   <dd>
     Angular Signals — Meetup Angular Rome @ ConTe.it
