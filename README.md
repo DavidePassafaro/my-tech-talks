@@ -6,7 +6,7 @@
 
   ---
 
-  <dt>01 December 2023 - Conference talk - 🇬🇧</dt>
+  <dt>01 December 2023 - Conference Talk - 🇬🇧</dt>
   <dd>
     Go Dynamic with Reactive Forms — NG Rome Summit 2023
     <br />
@@ -26,7 +26,7 @@
     <a href="https://docs.google.com/presentation/d/1jS1uOXMJHMHrEze-wBpmpDf6jRtmkk63DhlgFrn4HCI">Slides</a>
   </dd>
 
-  <dt>25 October 2023 - Conference talk - 🇬🇧</dt>
+  <dt>25 October 2023 - Conference Talk - 🇬🇧</dt>
   <dd>
     Angular Signals & RxJs: Hitchhiker's Guide to Reactivity — Codemotion Milan 2023
     <br />
@@ -44,7 +44,7 @@
 
   ---
 
-  <dt>07 October 2022 - Conference Lightning talk - 🇬🇧</dt>
+  <dt>07 October 2022 - Conference Lightning Talk - 🇬🇧</dt>
   <dd>
     Typed Reactive Forms — angularday 2022 <br />
     <a href="https://docs.google.com/presentation/d/1PsYFRLtdkWzpiCE2FQ32nO_YAg-XwquJEWqVhSrJN4E">Slides</a>
