@@ -30,6 +30,8 @@
   <dd>
     Angular Signals & RxJs: Hitchhiker's Guide to Reactivity — Codemotion Milan 2023
     <br />
+    <a href="https://talks.codemotion.com/angular-signals-and-rxjs-hitchhikers-gui?playlist=conference-milan-2023--wannabe-speaker">Video</a>
+    ⟺
     <a href="https://docs.google.com/presentation/d/1DOLN_2xm-1C9ZKPPY2WMZplayVio8uOphCSMnyUKRx8">Slides</a>
   </dd>
 
