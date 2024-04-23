@@ -2,7 +2,12 @@
 
 <dl>
 
-  2024 is coming soon!!!
+  <dt>11 April 2024 - Panel Talk - 🇮🇹</dt>
+  <dd>
+    Coppa 3 Frontender + 1 — Codemotion AperiTech
+    <br />
+    <a href="https://community.codemotion.com/codemotion-italy/meetups/aperitech-roma-frontend">Event Page</a>
+  </dd>
 
   ---
 
