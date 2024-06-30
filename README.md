@@ -14,7 +14,7 @@
 
   <dt>11 April 2024 - Panel Talk - 🇮🇹</dt>
   <dd>
-    Coppa 3 Frontender + 1 — Codemotion AperiTech
+    Coppa 3 Frontender + 1 — Codemotion AperiTech feat Angular Rome feat RomaJS feat Coderful
     <br />
     <a href="https://community.codemotion.com/codemotion-italy/meetups/aperitech-roma-frontend">Event Page</a>
   </dd>
@@ -34,7 +34,7 @@
 
   <dt>31 October 2023 - Stand-up and Online Talk - 🇮🇹</dt>
   <dd>
-    Angular Signals & RxJs: Guida Galattica alla Reattività — Meetup Angular Rome @ DST
+    Angular Signals & RxJs: Guida Galattica alla Reattività — Angular Rome Meetup @ DST
     <br />
     <a href="https://www.youtube.com/live/BQZF2yLSQbg?si=OGS8eF0VPrX4PIa_&t=2787">Video</a>
     ⟺
@@ -52,7 +52,7 @@
 
   <dt>25 May 2023 - Stand-up and Online Talk - 🇮🇹</dt>
   <dd>
-    Angular Signals — Meetup Angular Rome @ ConTe.it
+    Angular Signals — Angular Rome Meetup @ ConTe.it
     <br />
     <a href="https://www.youtube.com/live/S5yO_uiSP3Y?si=jUyar5aaMAEE0l4T&t=3024">Video</a>
     ⟺
@@ -69,13 +69,13 @@
 
   <dt>22 September 2022 - Stand-up and Online Talk - 🇮🇹</dt>
   <dd>
-    Typed Reactive Forms — Meetup Angular Rome and Codemotion AperiTech <br />
+    Typed Reactive Forms — Angular Rome Meetup feat Codemotion AperiTech <br />
     <a href="https://docs.google.com/presentation/d/1qdT4EZEnVYx2ul4Xa7MY-hCwlNMJu7r020dGBYvEOaE">Slides</a>
   </dd>
 
   <dt>28 April 2022 - Stand-up and Online Talk - 🇮🇹</dt>
   <dd>
-    RxJs: Ripartiamo dalle basi — Meetup Angular Rome and Codemotion AperiTech
+    RxJs: Ripartiamo dalle basi — Angular Rome Meetup feat Codemotion AperiTech
     <br />
     <a href="https://talks.codemotion.com/rxjs-ripartiamo-dalle-basi">Video</a>
     ⟺
@@ -86,7 +86,7 @@
 
   <dt>30 November 2021 - Stand-up and Online Talk - 🇮🇹</dt>
   <dd>
-    Angular Standalone Components — Meetup Angular Rome and Codemotion AperiTech
+    Angular Standalone Components — Angular Rome Meetup feat Codemotion AperiTech
     <br />
     <a href="https://www.youtube.com/watch?v=qEfL1ofSAuc">Video</a> ⟺
     <a href="https://docs.google.com/presentation/d/1WO7Jl_bpmeorCLY1v_AloTVBO3Gb3xPDzvp3MeKQbO4">Slides</a>
@@ -94,7 +94,7 @@
 
   <dt>27 October 2021 - Stand-up and Online Talk - 🇮🇹</dt>
   <dd>
-    Angular Pipe / Directive / Ng-Template — Meetup Angular Rome and Codemotion AperiTech <br />
+    Angular Pipe / Directive / Ng-Template — Angular Rome Meetup feat Codemotion AperiTech <br />
     <a href="https://www.youtube.com/watch?v=dMuDYVNDm8g">Video</a> ⟺
     <a href="https://docs.google.com/presentation/d/1rOM8ysLEEg_4egw_t_r9Ua6jB0VfWMTaUnpF1WxIK38">Slides</a>
   </dd>
@@ -103,7 +103,7 @@
 
   <dt>16 December 2020 - Online Talk - 🇮🇹</dt>
   <dd>
-    Stencil.js, Angular e Reactive Forms — Meetup Angular Rome and The Communities Bay <br />
+    Stencil.js, Angular e Reactive Forms — Angular Rome Meetup feat The Communities Bay <br />
     <a href="https://www.youtube.com/watch?v=sTLi_-s_RWs">Video</a>
   </dd>
 </dl>
