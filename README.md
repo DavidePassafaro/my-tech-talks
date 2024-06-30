@@ -1,6 +1,16 @@
 # My tech talks
 
 <dl>
+  <dt>28 June 2024 - Online Conference Talk - 🇬🇧</dt>
+  <dd>
+    Get ready to go Zoneless — Angular Tiny Conf 2024
+    <br />
+    <a href="https://www.youtube.com/live/nVcerb1tOUA?si=cww0p0AzzMvvPw8U&t=16239">Video</a>
+    ⟺
+    <a href="https://docs.google.com/presentation/d/1IrQFJznb_iCqD7d0g0-UAK3gmlrFZOK-GNBRyOjs5CU">Slides</a>
+    ⟺
+    <a href="https://demo-zoneless-pokedex.vercel.app">Demo</a>
+  </dd>
 
   <dt>11 April 2024 - Panel Talk - 🇮🇹</dt>
   <dd>
@@ -19,7 +29,7 @@
     ⟺
     <a href="https://docs.google.com/presentation/d/1VOkousiBfO8rUpMxhjDK5s0scQI4X4llZLy987v3M2Y">Slides</a>
     ⟺
-    <a href="https://demo-dynamic-reactive-forms.vercel.app/">Demo</a>
+    <a href="https://demo-dynamic-reactive-forms.vercel.app">Demo</a>
   </dd>
 
   <dt>31 October 2023 - Stand-up and Online Talk - 🇮🇹</dt>
